@@ -1,0 +1,18 @@
+For Java
+Open jdk 11/17
+intellij
+postman
+Maven
+
+
+
+For React -
+nodejs
+yarn
+visual studio code
+
+
+
+Helping tools -
+Notepad++
+7-zip
